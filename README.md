@@ -9,8 +9,6 @@ Dependencies:
 - Matplotlib
 
 Categories
-----
-Below you will find several categories of applications in this project.
 
 Neural Networks:
 ----
